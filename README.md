@@ -2,5 +2,7 @@
 
 Project on image Segementation
 
-Checkpoints are saved in checkpoints1
+It contains the code for training as script.py
+
+The predict code is predict.py and it stores an image in test folder on running
 
